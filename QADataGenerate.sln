@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuNerDataGenerate", "QADataGenerate\RuNerDataGenerate.csproj", "{96201A5F-9374-41C4-8C01-94F448B8FF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuNerDataGenerateLogic", "QADataGenLogic\RuNerDataGenerateLogic.csproj", "{29EC2810-FC1A-4F10-9907-5E7A4EF38EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96201A5F-9374-41C4-8C01-94F448B8FF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96201A5F-9374-41C4-8C01-94F448B8FF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96201A5F-9374-41C4-8C01-94F448B8FF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96201A5F-9374-41C4-8C01-94F448B8FF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EC2810-FC1A-4F10-9907-5E7A4EF38EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EC2810-FC1A-4F10-9907-5E7A4EF38EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EC2810-FC1A-4F10-9907-5E7A4EF38EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EC2810-FC1A-4F10-9907-5E7A4EF38EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75D28BB-FA72-452B-9D5B-0764DA0A1843}
+	EndGlobalSection
+EndGlobal
